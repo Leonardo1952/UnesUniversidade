@@ -2,8 +2,6 @@
 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Unes Universidade foi um projeto construído no curso de Web (o link segue a baixo) como exercício e prática e uso da linguagem de marcação HTML. Neste projeto foi usado alguns pontos assuntos interessantes e essenciais para construção de aplicações web, como por exemplo:
   
   - Estrutura de uma página web
